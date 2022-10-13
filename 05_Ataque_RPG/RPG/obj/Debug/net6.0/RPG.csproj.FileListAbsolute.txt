@@ -1,0 +1,30 @@
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\bin\Debug\net6.0\RPG.exe
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\bin\Debug\net6.0\RPG.deps.json
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\bin\Debug\net6.0\RPG.runtimeconfig.json
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\bin\Debug\net6.0\RPG.dll
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\bin\Debug\net6.0\RPG.pdb
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.csproj.AssemblyReference.cache
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.AssemblyInfoInputs.cache
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.AssemblyInfo.cs
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.csproj.CoreCompileInputs.cache
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.dll
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\refint\RPG.dll
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.pdb
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.genruntimeconfig.cache
+C:\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\ref\RPG.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\bin\Debug\net6.0\RPG.exe
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\bin\Debug\net6.0\RPG.deps.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\bin\Debug\net6.0\RPG.runtimeconfig.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\bin\Debug\net6.0\RPG.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\bin\Debug\net6.0\RPG.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.csproj.AssemblyReference.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.AssemblyInfoInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.AssemblyInfo.cs
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.csproj.CoreCompileInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\refint\RPG.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\RPG.genruntimeconfig.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05_Ataque_RPG\RPG\obj\Debug\net6.0\ref\RPG.dll
