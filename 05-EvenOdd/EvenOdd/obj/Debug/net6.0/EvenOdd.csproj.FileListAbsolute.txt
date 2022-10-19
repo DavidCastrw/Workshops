@@ -1,0 +1,15 @@
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\bin\Debug\net6.0\EvenOdd.exe
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\bin\Debug\net6.0\EvenOdd.deps.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\bin\Debug\net6.0\EvenOdd.runtimeconfig.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\bin\Debug\net6.0\EvenOdd.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\bin\Debug\net6.0\EvenOdd.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.csproj.AssemblyReference.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.AssemblyInfo.cs
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\obj\Debug\net6.0\refint\EvenOdd.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\obj\Debug\net6.0\EvenOdd.genruntimeconfig.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\05-EvenOdd\EvenOdd\obj\Debug\net6.0\ref\EvenOdd.dll
