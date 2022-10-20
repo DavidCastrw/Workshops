@@ -1,0 +1,15 @@
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\bin\Debug\net6.0\arearectangulo.exe
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\bin\Debug\net6.0\arearectangulo.deps.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\bin\Debug\net6.0\arearectangulo.runtimeconfig.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\bin\Debug\net6.0\arearectangulo.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\bin\Debug\net6.0\arearectangulo.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\obj\Debug\net6.0\arearectangulo.csproj.AssemblyReference.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\obj\Debug\net6.0\arearectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\obj\Debug\net6.0\arearectangulo.AssemblyInfoInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\obj\Debug\net6.0\arearectangulo.AssemblyInfo.cs
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\obj\Debug\net6.0\arearectangulo.csproj.CoreCompileInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\obj\Debug\net6.0\arearectangulo.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\obj\Debug\net6.0\refint\arearectangulo.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\obj\Debug\net6.0\arearectangulo.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\obj\Debug\net6.0\arearectangulo.genruntimeconfig.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\07-Arearectangulo\arearectangulo\obj\Debug\net6.0\ref\arearectangulo.dll
