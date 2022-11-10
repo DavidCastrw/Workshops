@@ -1,0 +1,15 @@
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\bin\Debug\net6.0\mediapiramide.exe
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\bin\Debug\net6.0\mediapiramide.deps.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\bin\Debug\net6.0\mediapiramide.runtimeconfig.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\bin\Debug\net6.0\mediapiramide.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\bin\Debug\net6.0\mediapiramide.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\obj\Debug\net6.0\mediapiramide.csproj.AssemblyReference.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\obj\Debug\net6.0\mediapiramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\obj\Debug\net6.0\mediapiramide.AssemblyInfoInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\obj\Debug\net6.0\mediapiramide.AssemblyInfo.cs
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\obj\Debug\net6.0\mediapiramide.csproj.CoreCompileInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\obj\Debug\net6.0\mediapiramide.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\obj\Debug\net6.0\refint\mediapiramide.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\obj\Debug\net6.0\mediapiramide.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\obj\Debug\net6.0\mediapiramide.genruntimeconfig.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\10_Mediapiramide\mediapiramide\obj\Debug\net6.0\ref\mediapiramide.dll
