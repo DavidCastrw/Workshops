@@ -1,0 +1,15 @@
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\bin\Debug\net6.0\lessmore.exe
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\bin\Debug\net6.0\lessmore.deps.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\bin\Debug\net6.0\lessmore.runtimeconfig.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\bin\Debug\net6.0\lessmore.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\bin\Debug\net6.0\lessmore.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\obj\Debug\net6.0\lessmore.csproj.AssemblyReference.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\obj\Debug\net6.0\lessmore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\obj\Debug\net6.0\lessmore.AssemblyInfoInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\obj\Debug\net6.0\lessmore.AssemblyInfo.cs
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\obj\Debug\net6.0\lessmore.csproj.CoreCompileInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\obj\Debug\net6.0\lessmore.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\obj\Debug\net6.0\refint\lessmore.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\obj\Debug\net6.0\lessmore.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\obj\Debug\net6.0\lessmore.genruntimeconfig.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\09_lessmore\lessmore\obj\Debug\net6.0\ref\lessmore.dll
