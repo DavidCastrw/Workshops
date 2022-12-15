@@ -1,0 +1,15 @@
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\bin\Debug\net6.0\lessminus.exe
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\bin\Debug\net6.0\lessminus.deps.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\bin\Debug\net6.0\lessminus.runtimeconfig.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\bin\Debug\net6.0\lessminus.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\bin\Debug\net6.0\lessminus.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\obj\Debug\net6.0\lessminus.csproj.AssemblyReference.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\obj\Debug\net6.0\lessminus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\obj\Debug\net6.0\lessminus.AssemblyInfoInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\obj\Debug\net6.0\lessminus.AssemblyInfo.cs
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\obj\Debug\net6.0\lessminus.csproj.CoreCompileInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\obj\Debug\net6.0\lessminus.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\obj\Debug\net6.0\refint\lessminus.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\obj\Debug\net6.0\lessminus.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\obj\Debug\net6.0\lessminus.genruntimeconfig.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\12_Mayormenor\lessminus\obj\Debug\net6.0\ref\lessminus.dll
