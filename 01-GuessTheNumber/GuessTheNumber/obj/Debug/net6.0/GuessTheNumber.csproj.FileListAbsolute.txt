@@ -1,0 +1,15 @@
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.exe
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.deps.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.runtimeconfig.json
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\refint\GuessTheNumber.dll
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\David Castro G\ClaseProgra\Programacion y Logica 1\Worckshops\Proyectos\01-GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\ref\GuessTheNumber.dll
